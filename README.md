@@ -19,6 +19,7 @@ puppet resource zimbra_user domain=mydomain.com
             domain       => 'mydomain.com',
             aliases      => ['mordor@mydomain.com', 'marciano@mydomain.com'],
             user_name    =>  'Rocky Marciano',
+            pwd          => 'Tjnnh)9',
             mailbox_size => '1G';
      }
 
