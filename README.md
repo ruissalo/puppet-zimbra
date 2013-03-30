@@ -32,8 +32,8 @@ puppet resource zimbra_user domain=mydomain.com
 
 ##TODO
 
-Calendar and sharing support
-Domain management
+Calendar and sharing support.
+Domain management.
 
 ##License
 
